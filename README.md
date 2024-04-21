@@ -77,44 +77,41 @@ A typical modem software development organization will look like this.
 ### Design
 
 - Architecture
-  - Web Application Architecture
-  
-    <figure>
-        <img src="chapters/images/web-app-architecture.jpeg" width="50%" height="50%">
-    </figure>
-  - Native Application Architecture
-  
-    <figure>
-        <img src="chapters/images/flutter-archdiagram.png" width="50%" height="50%">
-    </figure>
+  - UML
+    - Use Case
+    - Sequence Diagram
+    - State
+    - Deployment
+    - References
+      - https://plantuml.com/sequence-diagram
+  - [Architecture Basics](chapters/Architecture.md)
   - Backend
     - [Java](chapters/Java.md)
     - [JavaScript(Server side with NodeJs)](chapters/Javascript.md)
     - Python
     - PHP
   - Frontend
-    - HTML
-    - CSS
-    - JavaScript
+    - [HTML](chapters/Html.md)
+    - [CSS](chapters/Css.md)
+    - [JavaScript](chapters/Javascript.md)
   - Flutter basics
     - [Tutorial “PetClinic” application with Springboot and Flutter](https://github.com/andytmass/petclinic)
       
 - Design
-  - High Level Design
-  - Low Level Design
+  - [High Level Design](chapters/HLD.md)
+  - [Low Level Design](chapters/LLD.md)
 
 ### Implementation/Programming
 
-- Java basics
+- [Java](chapters/Java.md)
 - [SQL basics](chapters/Sql.md)
-- Restful basics
-- Javascript basics
+- [Restful basics](chapters/Restful.md)
+- [Javascript basics](chapters/Javascript.md)
 
 ### Dev Tools
 
 - [Git](chapters/Git.md)
-- Continuous Integration
-  - Jenkins
+- [Continuous Integration](chapters/CI.md)
 
 ### Security
 
@@ -123,11 +120,8 @@ A typical modem software development organization will look like this.
 ### Testing
 
 - [Unit Testing](chapters/UnitTest.md)
-- Integration Testing
-  - API Test
-- Functional Testing
-  - Selenium Testing
-  - Lab
+- [Integration Testing](chapters/IntegrationTest.md)
+- [Functional Testing](chapters/FunctionalTest.md)
 - [Performance Testing](chapters/PerfTest.md)
 
 ## Planning & Bug Tracking

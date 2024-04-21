@@ -4,4 +4,4 @@
 
 ## 1 Pager Sample/Template
 
-- [1 Pager template](pm-templates/one-pager.md)
+- [1 Pager template](templates/one-pager.md)
