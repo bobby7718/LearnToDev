@@ -65,8 +65,8 @@ A typical modem software development organization will look like this.
   - Native Application Architecture
     - ![Native Application Architecture](chapters/images/flutter-archdiagram.png)
   - Backend
-    - Java
-    - JavaScript(Server side with NodeJs)
+    - [Java](chapters/Java.md)
+    - [JavaScript(Server side with NodeJs)](chapters/Javascript.md)
     - Python
     - PHP
   - Frontend
@@ -83,7 +83,7 @@ A typical modem software development organization will look like this.
 ### Implementation/Programming
 
 - Java basics
-- SQL basics
+- [SQL basics](chapters/Sql.md)
 - Restful basics
 - Javascript basics
 - Authentication/Authorization
@@ -109,13 +109,9 @@ A typical modem software development organization will look like this.
 - [Jira](https://www.atlassian.com/software/jira/pricing?&aceid=&adposition=&adgroup=136973856130&campaign=18440774082&creative=656629737110&device=c&keyword=jira%20license&matchtype=p&network=g&placement=&ds_kids=p73345603391&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT78lVhpvydErULI5WIQahFYsEy5GX-Fw65fzyV_g4aoC-RHuI2-XBdRoCk-MQAvD_BwE&gclsrc=aw.ds)
 - [YouTrack](https://www.jetbrains.com/youtrack/buy/?gutm_medium=cpc&gutm_source=google&gutm_campaign=AMER_en_US-EST_YouTrack_Search_Competitors&gutm_content=692489595350&gclid=CjwKCAjwz42xBhB9EiwA48pT76qH7sNLqO5WAV1VwQK9N2JKFykFxrS226xvcGNcTHTTxP4P1DoGxhoCebIQAvD_BwE)
 
-## Scrum 101
+## Scrum
 
-- Scrum basics
-- Planning
-- Daily Standup
-- Retrospective
-- Backlog grooming
+- [Scrum Basics](chapters/Scrum.md)
 
 ## Advanced Topics
 
