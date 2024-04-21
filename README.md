@@ -29,8 +29,19 @@ A typical modem software development organization will look like this.
 - Marketing Manager
 
 - Product Manager
+
 - UX Designer
-- Architect
+
+- Software Architect <a name="architect"></a>
+
+  A software architect makes high-level design choices and frames technical standards. 
+  This might include tools, software coding standards, or platforms to be used. 
+  To be effective, a software architect needs broad (and deep) technical knowledge to make good decisions. 
+  However, technical knowledge isn’t enough. They also have to have the soft skills to manage projects and people. 
+
+  A great Software Architect employs a mix of great technical skills, the ability to take a high-level look, 
+  and great interpersonal skills.
+
 - Software Engineer
 
 #### Sales
@@ -86,13 +97,16 @@ A typical modem software development organization will look like this.
 - [SQL basics](chapters/Sql.md)
 - Restful basics
 - Javascript basics
-- Authentication/Authorization
 
 ### Dev Tools
 
 - [Git](chapters/Git.md)
 - Continuous Integration
   - Jenkins
+
+### Security
+
+- [Security](chapters/Security.md)
 
 ### Testing
 
