@@ -8,12 +8,21 @@ Wandering what's the next step. Or you have get ready for coding exercises, but 
 
 This is a bootcap for you to get boosted and get ready for your interview. 
 
+## Prerequisites
+
+- Hardware
+- Software
+- Recommendations
+  - MacOS
+
 ## Software Development 101
 
-A typical modem software development organization will look like this. 
-![Team Structure](chapters/images/team-structure.png)
+### Software Development Phases
+![](chapters/images/SoftDevPhases.png)
 
 ### Roles in software organizations
+A typical modem software development organization will look like this.
+![Team Structure](chapters/images/team-structure.png)
 
 #### TMP(Technology Marketing and Product)
 - Researcher
@@ -39,25 +48,34 @@ A typical modem software development organization will look like this.
 
 ## UX Design 101
 
-- Figma sample
+- Tutorial
+  - https://www.youtube.com/watch?v=Cx2dkpBxst8
+  - https://www.youtube.com/watch?v=wvFd-z7jSaA
+
+- [Sample Figma](https://www.figma.com/proto/Mt1Y8UlLRKmgWXfrJOhaIj/Wallet-App-Design-(Community)?type=design&node-id=2-97&t=7Krh6c2H9s4eem57-1&scaling=scale-down&page-id=2%3A4&starting-point-node-id=2%3A97)
+
 
 ## Engineering 101
 
 ### Design
 
 - Architecture
-  - Web and Native Applications
-    - Web Application Architecture
-      - ![Web Application Architecture](chapters/images/web-app-architecture.jpeg)
-    - Native Application Architecture
-      - ![Native Application Architecture](chapters/images/flutter-archdiagram.png)
-    - Lab
-  - Tiered Architecture
-      - Backend
-      - Frontend
+  - Web Application Architecture
+    - ![Web Application Architecture](chapters/images/web-app-architecture.jpeg)
+  - Native Application Architecture
+    - ![Native Application Architecture](chapters/images/flutter-archdiagram.png)
+  - Backend
+    - Java
+    - JavaScript(Server side with NodeJs)
+    - Python
+    - PHP
+  - Frontend
+    - HTML
+    - CSS
+    - JavaScript
   - Flutter basics
-      - Tutorial
-  
+    - [Tutorial “PetClinic” application with Springboot and Flutter](https://github.com/andytmass/petclinic)
+      
 - Design
   - High Level Design
   - Low Level Design
@@ -65,13 +83,10 @@ A typical modem software development organization will look like this.
 ### Implementation/Programming
 
 - Java basics
-  - Lab
 - SQL basics
-  - Lab
 - Restful basics
-  - Lab
 - Javascript basics
-  - Lab
+- Authentication/Authorization
 
 ### Dev Tools
 
@@ -81,18 +96,13 @@ A typical modem software development organization will look like this.
 
 ### Testing
 
-- Unit Testing
-  - JUnit
-  - FindBugs
-  - CheckStyle
+- [Unit Testing](chapters/UnitTest.md)
 - Integration Testing
   - API Test
 - Functional Testing
   - Selenium Testing
   - Lab
-- Performance Testing
-  - JMeter
-  - Lab
+- [Performance Testing](chapters/PerfTest.md)
 
 ## Planning & Bug Tracking
 
