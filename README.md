@@ -18,11 +18,17 @@ This is a bootcap for you to get boosted and get ready for your interview.
 ## Software Development 101
 
 ### Software Development Phases
-![](chapters/images/SoftDevPhases.png)
+<figure>
+    <img src="chapters/images/SoftDevPhases.png" width="60%" height="60%">
+    <figcaption>Software Development Phases</figcaption>
+</figure>
 
 ### Roles in software organizations
 A typical modem software development organization will look like this.
-![Team Structure](chapters/images/team-structure.png)
+<figure>
+    <img src="chapters/images/team-structure.png" width="60%" height="60%">
+    <figcaption>Team Structure</figcaption>
+</figure>
 
 #### TMP(Technology Marketing and Product)
 - Researcher
@@ -72,9 +78,15 @@ A typical modem software development organization will look like this.
 
 - Architecture
   - Web Application Architecture
-    - ![Web Application Architecture](chapters/images/web-app-architecture.jpeg)
+    - <figure>
+          <img src="chapters/images/web-app-architecture.jpeg" width="50%" height="50%">
+          <figcaption>Web Application Architecture</figcaption>
+      </figure>
   - Native Application Architecture
-    - ![Native Application Architecture](chapters/images/flutter-archdiagram.png)
+    - <figure>
+          <img src="chapters/images/flutter-archdiagram.png" width="50%" height="50%">
+          <figcaption>Native Application Architecture</figcaption>
+      </figure>
   - Backend
     - [Java](chapters/Java.md)
     - [JavaScript(Server side with NodeJs)](chapters/Javascript.md)
