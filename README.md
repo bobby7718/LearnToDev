@@ -78,10 +78,12 @@ A typical modem software development organization will look like this.
 
 - Architecture
   - Web Application Architecture
+  
     <figure>
         <img src="chapters/images/web-app-architecture.jpeg" width="50%" height="50%">
     </figure>
   - Native Application Architecture
+  
     <figure>
         <img src="chapters/images/flutter-archdiagram.png" width="50%" height="50%">
     </figure>
