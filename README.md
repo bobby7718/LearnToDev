@@ -1,6 +1,17 @@
 # Learn To Dev
 
+## Who are the audiences ?
+
+So you have learnt some programming languages(Java, Python, Javascript etc), gained some understanding of data structure, algorithm. 
+
+Wandering what's the next step. Or you have get ready for coding exercises, but need some hands-on experiences. 
+
+This is a bootcap for you to get boosted and get ready for your interview. 
+
 ## Software Development 101
+
+A typical modem software development organization will look like this. 
+![Team Structure](chapters/images/team-structure.png)
 
 ### Roles in software organizations
 
@@ -20,7 +31,11 @@
 
 ## Product Management 101
 
+- Product Requirement Document
+  - [PRD](https://productschool.com/resources/glossary/product-requirements-doc-prd?utm_source=google&utm_medium=referral&utm_campaign=202304-mkt_templates-product_management_templates)
 - 1 Pager Sample/Template
+  - [1 Pager Template](https://docs.google.com/document/d/1hs2TH00BYy_reNbCaGIRyWXJGiaDTEgAuRztnYd-dgU/edit)
+  - [PRD Template](https://docs.google.com/document/d/1hs2TH00BYy_reNbCaGIRyWXJGiaDTEgAuRztnYd-dgU/edit)
 
 ## UX Design 101
 
@@ -32,8 +47,11 @@
 
 - Architecture
   - Web and Native Applications
-      - Tiers
-      - Lab
+    - Web Application Architecture
+      - ![Web Application Architecture](chapters/images/web-app-architecture.jpeg)
+    - Native Application Architecture
+      - ![Native Application Architecture](chapters/images/flutter-archdiagram.png)
+    - Lab
   - Tiered Architecture
       - Backend
       - Frontend
@@ -57,13 +75,7 @@
 
 ### Dev Tools
 
-- Git
-  - Git concept
-  - Git workflows
-    - Git Flow
-    - Trunk based workflow
-  - Frequent used Git commands
-  - Lab
+- [Git](chapters/Git.md)
 - Continuous Integration
   - Jenkins
 
