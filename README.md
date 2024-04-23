@@ -8,13 +8,6 @@ Wandering what's the next step. Or you have get ready for coding exercises, but 
 
 This is a bootcap for you to get boosted and get ready for your interview. 
 
-## Prerequisites
-
-- Hardware
-- Software
-- Recommendations
-  - MacOS
-
 ## Software Development 101
 
 ### Software Development Phases
@@ -78,12 +71,11 @@ A typical modem software development organization will look like this.
 
 - Architecture
   - UML
-    - Use Case
-    - Sequence Diagram
-    - State
-    - Deployment
-    - References
-      - https://plantuml.com/sequence-diagram
+    - [Use Case Diagram](chapters/uml/usecase-diagram.puml)
+    - [Sequence Diagram](chapters/uml/sequence-diagram.puml)
+    - [Class Diagram](chapters/uml/class-diagram.puml)
+    - [References](https://plantuml.com/sequence-diagram)
+    
   - [Architecture Basics](chapters/Architecture.md)
   - Backend
     - [Java](chapters/Java.md)

@@ -1,0 +1,18 @@
+@startuml
+left to right direction
+actor "Clerk" as clerk
+rectangle PetClinic {
+  usecase "Add Pet" as UC1
+  usecase "List Pets" as UC2
+  usecase "Delete Pet" as UC3
+  usecase "Add Vet" as UC4
+  usecase "List Vet" as UC5
+  usecase "Delete Vet" as UC6
+}
+clerk --> UC1
+clerk --> UC2
+clerk --> UC3
+clerk --> UC4
+clerk --> UC5
+clerk --> UC6
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+Frontend -> Backend: Login
+Backend --> Frontend: Successful Response
+
+Frontend -> Backend: List Pets
+Backend --> Frontend: Found Pets
+
+@enduml

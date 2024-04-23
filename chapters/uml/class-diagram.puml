@@ -1,0 +1,11 @@
+@startuml
+class Vet
+class Pet
+class Owner
+class Appointment
+
+Vet -* Appointment : have many
+Appointment *- Pet : for
+Owner -* Pet : has
+
+@enduml
