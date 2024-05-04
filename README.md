@@ -29,6 +29,10 @@ A typical modem software development organization will look like this.
 
 - Product Manager
 
+  A product manager is a professional who defines the strategy, roadmap, features, and success of a product. 
+  They help set goals and motivate the product team of engineers, designers, marketers, and researchers, with the primary concern of ensuring that a product launches and continues to do well in the market.
+  Product managers stay on top of business and consumer trends and behaviors that directly or indirectly affect the product or company.
+
 - UX Designer
 
 - Software Architect <a name="architect"></a>
@@ -50,15 +54,11 @@ A typical modem software development organization will look like this.
 
 ## Product Management 101
 
-- Product Requirement Document
-  - [PRD](https://productschool.com/resources/glossary/product-requirements-doc-prd?utm_source=google&utm_medium=referral&utm_campaign=202304-mkt_templates-product_management_templates)
-- 1 Pager Sample/Template
-  - [1 Pager Template](https://docs.google.com/document/d/1hs2TH00BYy_reNbCaGIRyWXJGiaDTEgAuRztnYd-dgU/edit)
-  - [PRD Template](https://docs.google.com/document/d/1hs2TH00BYy_reNbCaGIRyWXJGiaDTEgAuRztnYd-dgU/edit)
+- [Product Management](chapters/PM.md)
 
 ## UX Design 101
 
-- Tutorial
+- Figma Tutorial
   - https://www.youtube.com/watch?v=Cx2dkpBxst8
   - https://www.youtube.com/watch?v=wvFd-z7jSaA
 

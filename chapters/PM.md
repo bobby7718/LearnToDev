@@ -111,6 +111,7 @@ Definition: A user story is a small, self-contained unit of development work des
 ## 1 Pager Sample/Template
 
 - [1 Pager template](templates/one-pager.md)
+- [PRD Template](https://docs.google.com/document/d/1hs2TH00BYy_reNbCaGIRyWXJGiaDTEgAuRztnYd-dgU/edit)
 
 ## Reference 
 
@@ -120,3 +121,5 @@ Definition: A user story is a small, self-contained unit of development work des
 - [User Story](https://www.productplan.com/glossary/user-story/)
 - [SCENARIOS, USER STORIES AND USE CASES – OH MY!](https://www.akendi.com/blog/scenarios-user-stories-and-use-casesoh-my/#:~:text=Scenarios%20are%20created%20by%20user,developers%20to%20help%20with%20testing.)
 - [Everything You Need to Know About Acceptance Criteria](https://resources.scrumalliance.org/Article/need-know-acceptance-criteria)
+- [Product Requirement Document](https://productschool.com/resources/glossary/product-requirements-doc-prd?utm_source=google&utm_medium=referral&utm_campaign=202304-mkt_templates-product_management_templates)
+- [1 Pager Template](https://docs.google.com/document/d/1hs2TH00BYy_reNbCaGIRyWXJGiaDTEgAuRztnYd-dgU/edit)
