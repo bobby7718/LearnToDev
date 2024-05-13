@@ -16,6 +16,10 @@ For developers, it eliminates everything from the time wasted passing commits ov
 It even makes better use of junior developers by giving them a safe environment to work in. 
 All of this affects the bottom line of your engineering department.
 
+## Git vs SVN
+
+![Git vs SVN](images/Git-vs-Svn.png)
+
 ## Branching strategy
 
 - What is branching
@@ -90,3 +94,6 @@ git rebase <local-branch> <feature-branch>
 - Make some changes
 - 
 
+## References
+
+- [What is the differences between GIT and SVN](https://www.linkedin.com/pulse/what-differences-between-git-svn-kareem-zock/)
