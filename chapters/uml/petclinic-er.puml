@@ -1,0 +1,60 @@
+@startuml
+!define primary_key(x) <b><color:#b8861b><&key></color> x</b>
+!define foreign_key(x) <color:#aaaaaa><&key></color> x
+!define column(x) <color:#efefef><&media-record></color> x
+!define table(x) entity x << (T, white) >>
+table( vet ) {
+  primary_key( id ): INT(4)
+  column( first_name ): VARCHAR(30)
+  column( last_name ): VARCHAR(30)
+  foreign_key( cityId ): INTEGER <<FK>>
+}
+
+table(specialty) {
+    primary_key(id): INT(4)
+    column(name): VARCHAR(80)
+}
+
+'table(vet_specialty) {
+'    foreign_key( vetId ): INTEGER <<FK>>
+'    foreign_key( specialtyId ): INTEGER <<FK>>
+'}
+
+table(type) {
+    primary_key( id ): INT(4)
+    column(name): VARCHAR(80)
+}
+
+table(owner) {
+    primary_key(id) : INT(4)
+    column(first_name): VARCHAR(30)
+    column( last_name )): VARCHAR(30)
+    column(address): VARCHAR(255)
+    column(city): VARCHAR(80)
+    column(telephone): VARCHAR(20)
+}
+
+table(pet){
+    primary_key(id) : INT(4)
+    column(name): VARCHAR(30)
+    column(birth_date): DATE
+    foreign_key( typeId ): INTEGER <<FK>>
+    foreign_key(ownerId ): INTEGER <<FK>>
+}
+
+table(visit) {
+    primary_key(id) : INT(4)
+    foreign_key( petId ): INTEGER <<FK>>
+    column(visit_date): DATE
+    column(description): VARCHAR(255)
+}
+
+vet }|--|{ specialty
+
+pet }|--|| type
+
+pet }|--|| owner
+
+pet ||--|{ visit
+
+@enduml
